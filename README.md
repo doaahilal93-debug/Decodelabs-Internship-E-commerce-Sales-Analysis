@@ -23,14 +23,6 @@ python
 df.info()
 df.describe()
 
-## 1. Python – Data Cleaning & Exploratory Analysis
-Python was used to understand the dataset, check data quality, and prepare the data for further analysis.
-
-### Data Inspection
-python
-df.info()
-df.describe()
-
 These checks were used to review data types, dataset structure, basic statistics, and numeric distributions.
 
 ### Data Quality Checks
