@@ -142,7 +142,13 @@ The Date table was connected to the Sales table using a 1-to-many relationship.
 
 ### Dashboard Pages
 
+#### Data Model
+
+![image](4.png)
+
 #### Sales
+
+![image](1.png)
 
 Focuses on overall sales performance.
 **KPIs**
@@ -161,6 +167,8 @@ Focuses on overall sales performance.
 
 #### Customers
 
+![image](2.png)
+
 Focuses on customer behavior and acquisition.
 **KPIs**
 
@@ -175,6 +183,8 @@ Focuses on customer behavior and acquisition.
 * Orders by Order Status
 
 #### Order Issues
+
+![image](3.png)
 
 Focuses on cancellations, returns, and pending orders.
 **KPIs**
