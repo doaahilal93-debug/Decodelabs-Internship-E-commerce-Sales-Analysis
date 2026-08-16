@@ -19,21 +19,17 @@ The dataset contains:
 Python was used to understand the dataset, check data quality, and prepare the data for further analysis.
 
 ### Data Inspection
-```python
+python
 df.info()
 df.describe()
-
----
 
 ## 1. Python – Data Cleaning & Exploratory Analysis
 Python was used to understand the dataset, check data quality, and prepare the data for further analysis.
 
 ### Data Inspection
-```python
+python
 df.info()
 df.describe()
-
-```
 
 These checks were used to review data types, dataset structure, basic statistics, and numeric distributions.
 
@@ -41,24 +37,18 @@ These checks were used to review data types, dataset structure, basic statistics
 
 Missing values were checked using:
 
-```python
+python
 df.isna().sum()
-
-```
 
 Missing CouponCode values were replaced with a meaningful category:
 
-```python
+python
 df['CouponCode'] = df['CouponCode'].fillna('No Coupon')
-
-```
 
 Duplicate rows were checked using:
 
-```python
+python
 df.duplicated().sum()
-
-```
 
 Categorical columns were also reviewed using `value_counts()`.
 
