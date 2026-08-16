@@ -1,4 +1,4 @@
-# Decodelabs Internship – E-commerce Sales Analysis
+# E-commerce Sales Analysis
 
 ## Project Overview
 This project was completed as part of the Decodelabs Internship task.
