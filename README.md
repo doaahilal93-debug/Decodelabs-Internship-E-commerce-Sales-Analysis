@@ -240,7 +240,3 @@ This highlights the importance of monitoring cancelled, returned, and pending or
 ## Project Workflow
 
 > Raw Data → Python Cleaning & EDA → SQL Business Analysis → Power BI Dashboard → Business Insights
-
-```
-
-```
