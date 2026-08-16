@@ -1,4 +1,3 @@
-```markdown
 # Decodelabs Internship – E-commerce Sales Analysis
 
 ## Project Overview
@@ -13,6 +12,16 @@ The dataset contains:
 
 ### Main Columns
 `OrderID` · `OrderDate` · `CustomerID` · `Product` · `Quantity` · `UnitPrice` · `TotalPrice` · `ItemsInCart` · `PaymentMethod` · `OrderStatus` · `CouponCode` · `ReferralSource`
+
+---
+
+## 1. Python – Data Cleaning & Exploratory Analysis
+Python was used to understand the dataset, check data quality, and prepare the data for further analysis.
+
+### Data Inspection
+```python
+df.info()
+df.describe()
 
 ---
 
